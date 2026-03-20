@@ -49,6 +49,10 @@ Immersive augmented and virtual reality system.
 * GitHub: https://github.com/chhayanka17
 * LinkedIn: https://www.linkedin.com/in/chhayanka-dabhadker-b86ab331a
 
+## 📸 Preview
+
+![Portfolio Screenshot](images/portfolio.png)
+
 ---
 
 ⭐ If you like this project, feel free to star the repo!
