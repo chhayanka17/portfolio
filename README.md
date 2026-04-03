@@ -1,58 +1,31 @@
-# 🌐 Chhayanka Dabhadker – Portfolio
+# 🌐 Personal Portfolio Website
 
-A modern and responsive personal portfolio website showcasing my projects, skills, and experience.
+> A responsive personal portfolio website showcasing my projects, skills, and contact information.
 
----
+## 🔗 Live Demo
+https://69bd381e614b000ec6e23592--chhayanka-dabhadker-portfolio.netlify.app/(#) 
+## 📸 Preview
+<!-- Add a screenshot after deploying -->
 
-## 🚀 Live Website
+## ✨ Features
+- Mobile-first responsive design
+- Clean and modern UI/UX
+- Interactive project showcase
+- Cross-browser compatible
 
-🔗 https://69bd381e614b000ec6e23592--chhayanka-dabhadker-portfolio.netlify.app/
+## 🛠️ Built With
+- HTML5
+- CSS3
+- JavaScript
 
----
-
-## 📌 Features
-
-* 💻 Responsive design (mobile-friendly)
-* 🎨 Modern UI with smooth animations
-* 🧠 Projects section with images
-* 📄 Resume download/view option
-* 🔗 Social media integration
-
----
-
-## 🛠️ Tech Stack
-
-* HTML5
-* CSS3
-* JavaScript
-
----
-
-## 📂 Projects Included
-
-### 🚁 Drone Monitoring System
-
-Drone-based surveillance and smart monitoring system.
-
-### 🌾 Adarsh Gram Project
-
-Smart village infrastructure using technology.
-
-### 🥽 AR/VR Experience
-
-Immersive augmented and virtual reality system.
-
----
+## 🚀 Run Locally
+```bash
+git clone https://github.com/chhayanka17/portfolio
+# Open index.html in your browser
+```
 
 ## 📬 Contact
-
-* GitHub: https://github.com/chhayanka17
-* LinkedIn: https://www.linkedin.com/in/chhayanka-dabhadker-b86ab331a
-
-## 📸 Preview
-
-![Portfolio Screenshot](images/portfolio.png)
-
----
-
+**Chhayanka Dabhadker**
+- Email: chhayankadabhadker17@gmail.com
+- LinkedIn: [linkedin.com/in/chhayankadabhadker-b86ab331a](https://linkedin.com/in/chhayankadabhadker-b86ab331a)
 ⭐ If you like this project, feel free to star the repo!
