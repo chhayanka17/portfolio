@@ -3,7 +3,7 @@
 > A responsive personal portfolio website showcasing my projects, skills, and contact information.
 
 ## 🔗 Live Demo
-https://69bd381e614b000ec6e23592--chhayanka-dabhadker-portfolio.netlify.app/(#) 
+https://69bd381e614b000ec6e23592--chhayanka-dabhadker-portfolio.netlify.app/
 ## 📸 Preview
 <!-- Add a screenshot after deploying -->
 
