@@ -6,6 +6,7 @@
 (https://portfolio-three-lilac-6r0jnz4yiu.vercel.app/)
 ## 📸 Preview
 <!-- Add a screenshot after deploying -->
+preview.png
 
 ## ✨ Features
 - Mobile-first responsive design
