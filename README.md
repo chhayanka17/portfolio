@@ -28,5 +28,5 @@ git clone https://github.com/chhayanka17/portfolio
 ## 📬 Contact
 **Chhayanka Dabhadker**
 - Email: chhayankadabhadker17@gmail.com
-- LinkedIn: [linkedin.com/in/chhayankadabhadker-b86ab331a](https://linkedin.com/in/chhayankadabhadker1712)
+- LinkedIn: [linkedin.com/in/chhayankadabhadker1712](https://linkedin.com/in/chhayankadabhadker1712)
 ⭐ If you like this project, feel free to star the repo!
